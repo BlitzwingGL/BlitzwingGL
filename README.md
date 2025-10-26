@@ -1,4 +1,4 @@
-### Hi to all, I am Blitzwing (Vladimir Emelyanov) - programmer and game developer from Russia.
+### Hi to all, I am Blitzwing (Vladimir Emelyanov) - programmer and game developer.
 
 
 <div id="header">
